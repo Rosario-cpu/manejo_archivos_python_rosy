@@ -1,0 +1,3 @@
+Hoy aprendi a trabajar con archivos de texto en Python.
+Me gusta mucho como se puede automatizar la lectura y escritura.
+Este conocimiento sera muy util si en el furuto me dedico a la programacion.
